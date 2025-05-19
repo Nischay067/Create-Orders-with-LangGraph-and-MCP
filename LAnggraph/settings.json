@@ -1,0 +1,4 @@
+{
+  "AZURE_OPENAI_ENDPOINT": "https://mmn-maryaui6-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview",
+  "AZURE_OPENAI_KEY": "5fvdPaGeaxYS0QjmDE92q5WwHIgfvILu7uQKANgh1TQtWiiG5gNiJQQJ99BEACHYHv6XJ3w3AAAAACOG4uDR"
+}
